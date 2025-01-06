@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Display 0 or 1, according to the first input.
 
 ## How to test
 
-Explain how to use your project
+Toggle the first input switch and see the output changing from 0 to 1
 
 ## External hardware
 
